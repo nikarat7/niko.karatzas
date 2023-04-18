@@ -1,0 +1,230 @@
+@media all and (min-width: 1401px) {
+.right-blue-light-patolo::before{border-right:719px solid #24bbff}
+.right-blue-light-patolo .content-triangulo,.left-blue-patolo .content-triangulo{position:absolute;top:-230px}
+.transparent-triang{width:100%;height:0;border-right:699px solid #f9f9f9;border-top:127px solid rgba(248,255,255,0);border-left:699px solid #f9f9f9;border-bottom:197px solid rgba(240,173,78,0);position:absolute;top:-37%;left:0;right:0}
+}
+@media all and (min-width: 1301px) {
+.right-blue-light-patolo .content-triangulo,.left-blue-patolo .content-triangulo{position:absolute;top:-230px}
+}
+@media all and (max-width: 1280px) {
+.triangulo-footer{width:1280px;height:0;border-right:640px solid transparent;border-top:195px solid transparent;border-left:640px solid transparent;top:-74%}
+}
+@media all and (min-width: 1201px) {
+.section-pat-categ .full-tittle-section h2{padding:10px 0;color:#fff}
+.right-blue-light-patolo .content-triangulo,.left-blue-patolo .content-triangulo{position:absolute;top:-200px;width:100%}
+.right-blue-light-patolo::before{border-right:681px solid #24bbff}
+}
+@media all and (min-width: 1280px) {
+.full-tittle-section{padding:0}
+.section-pat-categ.full-tittle-section{padding:15px 0}
+}
+@media all and (max-width: 1200px) {
+.full-tittle-section h2{color:#fff}
+.right-blue-light-patolo .content-triangulo,.left-blue-patolo .content-triangulo{position:absolute;top:-180px;width:100%}
+.triangulo-footer{width:100%;height:0;border-right:645px solid transparent;border-top:180px solid transparent;border-left:679px solid transparent;border-bottom:143px solid #0c5777;position:absolute;top:-69%;left:0;right:0;z-index:0}
+.relative-container-sel img{right:-23%}
+.right-blue-light-patolo::before{border-right:591px solid #24bbff}
+.bx-logo-menu{margin-top:-40px;left:45%;padding:3px 13px 3px 1px}
+.img-team-medical img{left:15%}
+.left-blue-patolo:before{border-left:593px solid #219fd8}
+.full-tittle-section h2{color:#219FD8;font-size:30px;font-weight:500;padding:0;margin-top:0}
+.section-pat-categ .full-tittle-section h2{color: #fff; padding: 15px 0}
+.column-sect span{color:#827a7a;font-size:45px;font-weight:700;position:absolute;left:8%;top:-15px}
+.full-tittle-section{display:inline-block;margin-bottom:-15px}
+.triangulo-footer{border-right:600px solid transparent;border-top:195px solid transparent;border-left:600px solid transparent;border-bottom:143px solid #0c5777;position:absolute;z-index:0}
+.first-item{padding:0 10%}
+.section-contact ul li{margin-top:20px}
+.aux-info-notice{width:80%}
+.navbar-inverse .navbar-nav > li > a{padding:15px 8px;font-size:12px}
+#container,#containerc{width:80px;height:80px;left:0}
+span.porcenta-fluid{left:25%;top:15px}
+.social-ul-footer li i{font-size:26px;padding:6px 10px}
+.social-ul-footer li{width:40px;height:40px}
+.social-ul-footer{margin-top:0}
+.gral-bx-tips.tips-2{height:180px}
+.section-nuestro-equipo .img-team-medical{left:6%}
+.link-footer{padding:0 15%}
+.bx-second-foot{padding:0}
+.bx-first-foot{padding:0 10px}
+.bx-first-foot .direccion-footer,.bx-first-foot .phone-footer{padding:0}
+.bx-first-foot h2{margin-left:0}
+.detail-ruta{display:inline-block;width:100%}
+span.name-dr{float:right}
+.img-team-medical{left:8%}
+.bx-border-text-team-medical h3{font-size:22px}
+.bx-border-text-team-medical h4{padding:0 3px;font-size:13px}
+.bx-relative-team a.btn-view-team{left:25%}
+.bx-intern-patolo-2 h2{font-size:25px}
+.bread-text-bread h2{font-size:46px}
+.arancel-wrapp{padding:50px 0}
+.pas-blog span{font-size:52px}
+}
+@media all and (max-width: 1024px) {
+.navbar-inverse .navbar-nav > li > a{padding:15px 7px;font-size:12px}
+span.gris-number{margin:0}
+}
+@media all and (max-width: 990px) {
+.help-margin{margin-top:60px}
+.bx-relative-team{position:relative;margin:60px 0}
+.img-team-medical{width:150px;height:150px;top:-15%;left:38%}
+.triangulo{position:absolute;width:100%;top:-10%}
+.bx-logo-menu-s,.navbar-fixed-top .bx-logo-menu-s{left:-10%}
+.bx-logo-menu-s img{width:100px}
+.bx-form-solicitud-atencion{position:static;width:100%;z-index:11}
+.left-blue-patolo{padding:0}
+.section-nuestro-equipo .img-team-medical{left:30%;top:-25%}
+}
+@media all and (max-width:769px) {
+.right-blue-light-patolo .content-triangulo,.left-blue-patolo .content-triangulo{position:absolute;top:-100px}
+.right-blue-light-patolo{float:left;width:70%}
+.right-blue-light-patolo h3{text-align:center;font-size:28px;margin:30px 0}
+.left-blue-patolo{width:30%;padding:0;float:left;background:#98d7fc}
+.right-blue-light-patolo .tab-content{margin:0 10px}
+.bx-pato-tab-sect{padding:0}
+.content-text-dolores h2{font-size:30px}
+.tab-content p{font-size:14px}
+.tab-content ul li{font-size:14px}
+.content-text-dolores{width:90%}
+.baj-box{width:30%;float:left;position:relative;margin:20px 0}
+.triangulo{position:absolute;width:100%;top:-10%}
+.triangulo img{width:100%}
+.bx-logo-menu-s,.navbar-fixed-top .bx-logo-menu-s{left:10px;top:0}
+span.gris-number{width:50%}
+.bx-logo-menu-s{border-radius:0 0 30px 30px!important;padding:10px 10px 0}
+.navbar-fixed-top .bx-logo-menu-s{padding:10px 10px 0;border-radius:0 0 30px 30px!important}
+.bx-logo-menu-s img{-webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease}
+.navbar-fixed-top .bx-logo-menu-s img{width:70px;-webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease}
+.navbar .navbar-nav{margin-top:70px}
+span.text-span-bann{text-align:left;margin:0;padding:10px 0}
+span.gris-number{text-align:center;font-size:30px;width:100%}
+span.text-span-bann{text-align:center;margin:0;padding:0;width:100%;font-size:12px}
+.full-tab-bx li a{padding:40px 0;font-size:11px}
+.propio-style{padding:50px 0;border-bottom:0 solid #ddd;text-transform:uppercase;margin:0 10px}
+.bx-relative-team{position:relative;margin:30px 0 110px}
+.img-team-medical{width:150px;height:150px;top:-15%;left:38%}
+.bx-tab-li span{width:50px;height:70px;top:-25px;left:40%}
+.btn-view-pta a.btn-view-team{position:relative;left:inherit;bottom:inherit}
+.box-img-especialidad{display:none}
+.align-left-tab-especial{width:100%}
+.blank-novedad{padding:0;margin-top:10px}
+.gral-bx-tips{margin-bottom:20px}
+.section-carousel{padding:20px 40px;height:auto}
+.title-owl-carro{margin-bottom:20px}
+.section-carousel p{text-transform:none}
+.detail-ruta{position:relative;display:inline-block;width:100%}
+.section-nuestro-equipo .img-team-medical{left:40%;top:-25%}
+.triangulo{top:-42px}
+.bx-present-info-foto-te{left:10%!important}
+.ficha-team-medical-present-t h3{font-size:20px}
+.detail-cv{padding:60px 10px;padding-top:200px}
+ul.list_participa{padding:0;margin-left:0}
+.detail-cv h2{font-size:22px}
+.bx-footer-gral{padding:0}
+.section-form-equipo{height:auto}
+.section-footer{padding:70px 0 0;margin-top:0}
+.bread-text-bread h2{font-size:26px}
+ul.dropdown-menu.contact{padding:20px 0!important}
+.bx-section-equipo-new{padding:0 0 50px}
+.bread-text-bread img{width:50px}
+.bx-inter-conten h2{font-size:35px}
+.bx-inter-conten{padding:0}
+.baj-box.first-baj{margin-left:0}
+.btn-gral{margin-right:20px}
+.left-blue-patolo .propio-style{padding:0}
+.left-blue-patolo{padding:50px 10px}
+.left-blue-patolo .propio-style{padding:0;margin:0}
+a.btn-view-team{left:35%}
+.gral-bx-tips.tips-2{padding:10px 0}
+.title-owl-carro h2{font-size:20px;margin-bottom:20px}
+span.separ{display:none}
+.navbar-inverse .navbar-nav > li > a{padding:10px 7px;font-size:14px}
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a{color:#fff}
+.bx-text-espcial-equipo{margin:40px 0;display:inline-block}
+span.test-info-doc{font-size:20px}
+span.name-dr{clear:both;float:right}
+.title-quienes h2,.title-quienes h2 span{font-size:40px}
+.bx-intern-patolo-2 h2{font-size:22px;margin-bottom:30px}
+.unidades-unit{margin:40px 0;display:inline-block;width:100%}
+.unidad-1-d{width:100px;height:100px}
+span.icon-unidad-1{height:100px;width:90px;top:15%;left:15%}
+.principal-proc p{font-size:14px}
+.bx-logo-foot{position:absolute;left:47%;top:-20px}
+.bx-logo-foot img{width:50px}
+p.text-mobile-arancel{text-align:center;font-size:16px;margin-bottom:30px}
+.txt-relative-uniti{position:absolute;bottom:-50px;left:-27px}
+.arancel-wrapp{padding:25px 0}
+.left-bx-pato{margin:0 0 130px}
+.transparent-triang{display:none}
+.bx-text-not-blog h2{color:#0c5777;font-size:25px}
+.notice-blog{padding:0;margin:0 0 60px}
+.bx-cele-last-notice{display:inline-block;width:100%}
+.full-breadcam-section-blog{height:50vh}
+.triang-head-slid{height:auto;margin-top:0;padding:20px 0}
+span.line-blanc-head{width:100%;height:2px;background:#c1c6ca}
+.sect-right-blogger{padding-right:15px}
+.section-full-testimonio-2{padding:50px 0}
+.bx-section-equipo{padding:10px 0;margin:0 0 100px}
+.dropdown-menu.contact{color:#fff}
+.dropdown-menu.contact h3{color:#fff}
+.bx-first-foot .direccion-footer,.bx-first-foot .phone-footer{padding:0 15px}
+.bx-first-foot h2{margin-left:15px}
+.link-footer{padding:0 15px}
+span.text-span-bann-right{float:left;margin-left:0;margin-top:0;margin-right:0;width:100%;text-align:center}
+.five-baj .text-span-bann{margin-left:0;display:inline-block;position:absolute;top:80px}
+#container,#containerc{left:20%}
+span.porcenta-fluid{left:56%;top:18px}
+.propio-style>li>a{color:#0c5777}
+.bx-third-foot{border-left:none}
+}
+@media all and (max-width: 580px) {
+.bx-tab-li{width:50%}
+li.bx-tab-li.active a:before{content:" ";position:absolute;top:25%;bottom:inherit;left:0;width:0;height:0;border-style:solid;border-width:20px 0 20px 20px;border-color:transparent transparent transparent #fff}
+.section-nuestro-equipo .img-team-medical{left:34%}
+}
+@media all and (max-width: 480px) {
+.pas-blog span{color:#0a8dcc;font-size:28px}
+.info-empresa.pull-left{margin:0}
+.full-tittle-section{margin-bottom:0;padding:0 10px}
+.content-text-dolores a{margin:20px 30%}
+.content-text-dolores h2{font-size:25px}
+.col-5{width:50%}
+li.bx-logo-menu-s{display:none}
+.right-blue-light-patolo .content-triangulo,.left-blue-patolo .content-triangulo{display:none}
+.propio-style{padding:0;margin:0}
+.relative-container-sel{padding:0}
+.cap-map{display:none}
+.bx-relative-team{margin-top:40%}
+.img-team-medical img{left:23%}
+.info-empresa.pull-right ul{margin:0}
+.baj-blank-slider{padding:10px}
+.first-baj,.second-baj,.third-baj,.four-baj,.five-baj{padding:0;margin:10px 0;width:30%}
+.bx-center-middle{width:auto}
+.bx-logo-menu{display:none}
+.triangulo-footer{display:none}
+.bx-pato-tab-sect{padding:0}
+.detail-solicitud{padding:0}
+.section-nuestro-equipo{margin:0;padding: 30px 0;}
+.section-nuestro-equipo .bx-relative-team a.btn-view-team {left: 34%}
+.left-blue-patolo{height:350px;background:#219fd8;padding:50px;width:100%}
+.right-blue-light-patolo{height:540px;padding:0;width:100%}
+.align-left-tab-especial{width:100%;padding:0;margin:0;text-align:justify}
+.box-img-especialidad.align-rigth-tab-especial{display:none}
+.box-img-especialidad.align-rigth-tab-especial img{position:static}
+.left-blue-patolo:before{display:none}
+.right-blue-light-patolo:before{display:none}
+span.text-span-bann{text-align:center;margin:0;padding:5px 10px}
+.full-tab-bx li a{padding:75px 0 0;font-size:14px}
+li.bx-tab-li span.img-espes-2-active{left:35%;top:15px}
+.img-team-medical{left:30%}
+.bx-relative-team{position:relative;margin:0 0 120px}
+.bx-tab-li{width:50%;height:125px}
+.bx-gral-tab{padding:20px}
+.bx-tab-li span{left:35%;width:70px;height:60px;top:0}
+.box-social{width:100%}
+.social-ul-footer{margin-top:15px;margin-left:29%}
+.section-pat-categ .full-tittle-section h2{color:#fff;font-size:20px}
+.section-nuestro-equipo .img-team-medical{left:27%}
+.bx-logo-foot{position:absolute;left:43%;top:-20px}
+span.porcenta-fluid{left:70%;top:22px}
+.five-baj .text-span-bann{left:7%;text-align:center}
+}
